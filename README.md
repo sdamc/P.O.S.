@@ -53,12 +53,57 @@ Deadline: 2 weeks
     > Card choice
 
     > Error message
+    
 
-Start: 31/01/2020
-Deadline: 28/02/2020
+Start: 31/01/2021
+Deadline: 28/02/2021
 
+* Cancellation application
+    > Password
+    
+    > Insert Card
+    
+    > Choose transaction
+    
+    > Print
+    
+    > Payback deadline message
+Start: 1/03/2021
+Deadline: 15/03/2021
 
+* Report app
+    > Type
+    
+    > Data & time range
+    
+    > Send via e-mail
+    
+    > Show payment date % liquid value
+Start: 15/03/2021
+Deadline: 31/03/2021
+    
+ * Closing app
+    > Set time and range
+    
+    > Send via e-mail
+Start: 1/04/2021
+Deadline: 8/04/2021   
+ 
+    
+ * Embedded simulator
+    > Add to the payment app
+Start: 8/04/2021
+Deadline: 22/04/2021
+    
+ * Anticipation app
+    > Spot RAV
+    
+    > Enable/Disable auto rav
+Start: 22/04/2021
+Deadline: 30/04/2021  
 
+ * 
+    
 Testability, Monitoring and Alerting
 
 It is also part of my learning curve. I must reserve time for studying testing when the first app is done.
