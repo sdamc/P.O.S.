@@ -102,7 +102,28 @@ Deadline: 22/04/2021
 Start: 22/04/2021
 Deadline: 30/04/2021  
 
- * 
+ * Reprint
+    > Transaction
+    
+    > Cancellation
+Start: 30/04
+Deadline: 30/05
+
+
+ * Configs
+    > Network
+    
+    > Printer
+    
+    > Password
+    
+    > Help
+    
+    > About
+    
+    > Energy
+    
+ Deadline: 2 months
     
 Testability, Monitoring and Alerting
 
